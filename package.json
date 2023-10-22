@@ -7,7 +7,7 @@
     "start": "node index.js",
     "start:dev": "nodemon index.js"
   },
-  "author": "DOMINIK <szajblerd@gmail.com>",
+  "author": "ADAM <djschabowy2@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
